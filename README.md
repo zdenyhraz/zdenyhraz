@@ -4,7 +4,3 @@
 
 
 
-- hrazdira.zdenek@gmail.com
-- https://www.linkedin.com/in/zdenyhraz
-
-
