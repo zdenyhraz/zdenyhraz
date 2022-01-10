@@ -7,6 +7,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zdenyhraz&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdenyhraz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdenyhraz)
 
 
