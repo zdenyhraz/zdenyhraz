@@ -12,6 +12,7 @@
   <img src="https://avatars.githubusercontent.com/u/17565521?v=4&s=160" alt="pybind" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qt" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/OpenMP_logo.png/1200px-OpenMP_logo.png" alt="openmp" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png" alt="openmp" width="120" height="40"/>
   <img src="https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png" alt="fmt" width="100" height="40"/>
   <img src="https://matplotlib.org/3.4.1/_static/logo2_compressed.svg" alt="matplotlib" width="80" height="40"/>
 </p>
