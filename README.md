@@ -27,6 +27,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=zdenyhraz&count_private=true&show_icons=true&hide=issues&theme=gotham" alt="github readme stats" height="156"/>
     </a>
     <a href="https://github.com/zdenyhraz?tab=repositories">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zdenyhraz&layout=compact&hide=jupyter%20notebook&theme=gotham" alt="top langs" height="156"/>
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zdenyhraz&layout=compact&hide=jupyter%20notebook&exclude_repo=jixxy-wotlk-ui&theme=gotham" alt="top langs" height="156"/>
     </a>
   </p>
