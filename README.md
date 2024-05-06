@@ -1,13 +1,11 @@
 ### Frameworks / tools I've worked with
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png" alt="cmake" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/17565521?v=4&s=160" alt="pybind" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" width="40" height="40"/>
@@ -19,8 +17,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png" alt="openmp" width="120" height="40"/>
   <img src="https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png" alt="fmt" width="100" height="40"/>
   <img src="https://matplotlib.org/3.4.1/_static/logo2_compressed.svg" alt="matplotlib" width="130" height="40"/>
+  <img src="https://vmssoftware.com/images/intro/product/zeromq.png" alt="zeromq" width="150" height="40"/>
   <br>
-  <img src="https://i.pinimg.com/736x/58/de/a1/58dea1a9c49dea947d72242783d9f370.jpg" alt="unreal" width="220" height="100"/>
+  <img src="https://i.pinimg.com/736x/58/de/a1/58dea1a9c49dea947d72242783d9f370.jpg" alt="unreal" width="220" height="100"/>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="100" height="100"/>&nbsp;&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/opencv-icon-1657x2048-3wu3ib6x.png" alt="opencv" width="100" height="100"/>
+
+  
+  
 </p>
 
 <p align="left">
