@@ -21,7 +21,7 @@
   <br>
   <img src="https://i.pinimg.com/736x/58/de/a1/58dea1a9c49dea947d72242783d9f370.jpg" alt="unreal" width="220" height="100"/>&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="100" height="100"/>&nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/opencv-icon-1657x2048-3wu3ib6x.png" alt="opencv" width="100" height="100"/>
+  <img src="https://static-00.iconduck.com/assets.00/opencv-icon-1657x2048-3wu3ib6x.png" alt="opencv" width="80" height="100"/>
 
   
   
