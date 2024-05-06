@@ -11,12 +11,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="github" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" alt="azure" width="40" height="40"/>
+  <img src="https://matplotlib.org/3.4.1/_static/logo2_compressed.svg" alt="matplotlib" width="130" height="40"/>
   <br>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qt" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/OpenMP_logo.png/1200px-OpenMP_logo.png" alt="openmp" width="120" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png" alt="openmp" width="120" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png" alt="opengl" width="120" height="40"/>
   <img src="https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png" alt="fmt" width="100" height="40"/>
-  <img src="https://matplotlib.org/3.4.1/_static/logo2_compressed.svg" alt="matplotlib" width="130" height="40"/>
   <img src="https://vmssoftware.com/images/intro/product/zeromq.png" alt="zeromq" width="150" height="40"/>
   <br>
   <img src="https://i.pinimg.com/736x/58/de/a1/58dea1a9c49dea947d72242783d9f370.jpg" alt="unreal" width="220" height="100"/>&nbsp;&nbsp;
